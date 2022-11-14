@@ -5,8 +5,8 @@ go 1.19
 require (
 	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1823
 	github.com/ergoapi/util v0.2.23
-	github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/common v1.0.520
-	github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/dnspod v1.0.520
+	github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/common v1.0.536
+	github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/dnspod v1.0.536
 )
 
 require (
