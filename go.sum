@@ -3,8 +3,8 @@ github.com/aliyun/alibaba-cloud-sdk-go v1.62.108/go.mod h1:Api2AkmMgGaSUAhmk76oa
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
-github.com/ergoapi/util v0.2.26 h1:vpxdt0EHMzt5PVlpvmd7KGeWiGSOwODr5GIFA2K26Y8=
-github.com/ergoapi/util v0.2.26/go.mod h1:lc2keKuxkzG0Uu3hTN8f/GECHTjjRse8mQ97RC6CaCc=
+github.com/ergoapi/util v0.3.3 h1:+8tzdLvbnEzGQnDmOHswbHUnI6Ma1mHFEEbiknzYDmw=
+github.com/ergoapi/util v0.3.3/go.mod h1:qLGF2RlN9gUc5eSmKii4WtO33bzxRAADR+d9Gz3WNPg=
 github.com/goji/httpauth v0.0.0-20160601135302-2da839ab0f4d/go.mod h1:nnjvkQ9ptGaCkuDUx6wNykzzlUixGxvkme+H/lnzb+A=
 github.com/google/gofuzz v1.0.0/go.mod h1:dBl0BpW6vV/+mYPU4Po3pmUjxk6FQPldtuIdl/M65Eg=
 github.com/jmespath/go-jmespath v0.0.0-20180206201540-c2b33e8439af/go.mod h1:Nht3zPeWKUH0NzdCt2Blrr5ys8VGpn0CEB0cQHVjt7k=
