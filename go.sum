@@ -34,8 +34,9 @@ github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+
 github.com/stretchr/testify v1.3.0/go.mod h1:M5WIy9Dh21IEIfnGCwXGc5bZfKNJtfHm1UVUgZn+9EI=
 github.com/stretchr/testify v1.7.0 h1:nwc3DEeHmmLAfoZucVR881uASk0Mfjw8xYJ99tb5CcY=
 github.com/stretchr/testify v1.7.0/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/h/Wwjteg=
-github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/common v1.0.549 h1:j/bk6BVbnhiCU9jIbIQlEwWmLn4FUzEbNPZUC/wKnVo=
 github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/common v1.0.549/go.mod h1:7sCQWVkxcsR38nffDW057DRGk8mUjK1Ing/EFOK8s8Y=
+github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/common v1.0.618 h1:MnVPOx6Axq93CrLanFg7g8BbfNY/MfCIIKLv90+IKeQ=
+github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/common v1.0.618/go.mod h1:7sCQWVkxcsR38nffDW057DRGk8mUjK1Ing/EFOK8s8Y=
 github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/dnspod v1.0.549 h1:nA4x/hG2KMG0knTEPW/gVb3G9ClvvDG3yBlzgl9uxxk=
 github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/dnspod v1.0.549/go.mod h1:n6C8MrW603MFINIDmctLDpfdGG1lXunRu0tnAVPEHCs=
 github.com/uber/jaeger-client-go v2.30.0+incompatible h1:D6wyKGCecFaSRUpo8lCVbaOOb6ThwMmTEbhRwtKR97o=
